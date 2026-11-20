@@ -1,0 +1,15 @@
+date,item,category,price,quantity
+2026-11-01,Milk,Dairy,1.20 JD,2
+2026-11-01,Bread,bakery,0.50,3
+2026-11-02,Tomatoes, vegetables ,0.90,
+2026-11-02,Chicken,Meat,4.75 JD,1
+2026-11-03,Rice,grains,2.10,1
+2026-11-03,Rice,grains,2.10,1
+2026-11-04,Cheese,DAIRY,3.40,1
+2026-11-05,Apples,Fruit,,2
+2026-11-05,Cucumbers,Vegetables,0.60 JD,4
+2026-11-06,Yogurt,dairy,1.10,-2
+2026-11-07,Olive oil,Oils,6.50,1
+2026-11-07,Bananas,fruit,1.25 JD,
+2026-11-08,Eggs,Dairy,2.30,1
+2026-11-08,Pita bread,Bakery,0.35,5
